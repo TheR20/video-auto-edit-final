@@ -1,0 +1,10 @@
+{"installed":{"client_id":"69535219651-nrn7qv683lsrgm7uv4jmsc7u7rid2qma.apps.googleusercontent.com","project_id":"basuraviral","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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","redirect_uris":["http://localhost"]}}
+
+
+{
+    "client_email": "carlosjurad8@gmail.com",
+    "private_key": "-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n",
+    "project_id": "your-project-id",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "type": "service_account"
+  }
