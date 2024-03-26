@@ -1,0 +1,6 @@
+¡Oye mi amigo! ¿Te gustaría saber cuánto le mide Quetzacoatl de Kobashi San? ¡Pues sube la música!
+Primero conseguimos una foto que nos permita medir su tórax de 5.6 centímetros.
+Luego, medimos la distancia desde su pecho de 18.5 centímetros, directamente desde su wiki tomamos
+la altura de 1.85 metros. Esta nos proporciona la parte baja de su pecho de 79.9.
+Una vez bien medida, la introducimos en nuestro código en Python que nos crea un diagrama de sección transversal y realiza los cálculos necesarios.
+Para saber el tamaño total de los pechos de Quetzalcoatl, siendo esta medida de 126 centímetros. Pero la cosa no termina ahí. Podemos restar esta medida a la parte baja del pecho y obtener la talla. que sería una F japonesa y una G americana. ¿Qué te parece? ¿Crees que 126 le hace justicia? ¿Quién sigue en las mediciones?
